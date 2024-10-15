@@ -5,15 +5,17 @@
       srcset="https://github.com/cumbucadev/design/raw/main/images/logo-dark-transparent.png"
     >
     <img
-      alt="Logo do Cumbuca Dev"
+      alt="Cumbuca Dev Logo"
       src="https://github.com/cumbucadev/design/raw/main/images/logo-light-transparent.png"
       width="20%"
     >
   </picture>
 </div>
 
-# Contributors
+# Contributions
 
-Este repositório contém diretrizes de contribuição para todos os repositórios da
-organização Cumbuca Dev GitHub. Todos os repositórios da Organização Cumbuca Dev
-GitHub devem seguir estas diretrizes.
+[Versão em Português](/README.md)
+
+This repository contains contribution guidelines for all repositories under
+Cumbuca Dev GitHub Organization. All repositories under Cumbuca Dev GitHub
+Organization must follow these guidelines.
